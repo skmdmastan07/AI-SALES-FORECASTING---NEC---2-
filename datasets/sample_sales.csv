@@ -1,0 +1,9 @@
+Order Date,Product ID,Product Name,Category,Region,Quantity Sold,Revenue,Inventory Level,Promotion Flag,Holiday Indicator
+2025-01-01,P101,Laptop,Electronics,North,12,120000,150,1,0
+2025-01-02,P102,Phone,Electronics,South,20,80000,200,0,0
+2025-01-03,P103,Headphones,Accessories,East,30,30000,250,1,0
+2025-01-04,P104,Keyboard,Accessories,West,15,15000,120,0,1
+2025-01-05,P105,Monitor,Electronics,North,10,50000,90,1,0
+2025-01-06,P106,Mouse,Accessories,South,25,12500,300,0,0
+2025-01-07,P107,Tablet,Electronics,East,18,72000,140,1,0
+2025-01-08,P108,Printer,Office,West,8,40000,60,0,1
