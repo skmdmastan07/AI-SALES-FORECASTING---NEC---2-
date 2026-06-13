@@ -118,7 +118,7 @@ INTELLIGENT_SALES_FORECASTING
 
 ### Step 1: Clone Repository
 
-git clone YOUR_REPOSITORY_LINK
+git clone https://github.com/skmdmastan07/AI-SALES-FORECASTING---NEC---2-
 
 ### Step 2: Open Project Folder
 
